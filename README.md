@@ -1,4 +1,4 @@
-# This project was used to create a full stack application using a face recognition API (Clarifai).
+# This project was created to build a full stack application using the Clarifai API for image face recognition.
 ___
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
